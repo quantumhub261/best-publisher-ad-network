@@ -1,0 +1,288 @@
+[
+  {
+    "id": "adsense",
+    "group": "sites",
+    "name": "Google AdSense",
+    "partner": false,
+    "url": "https://support.google.com/adsense/answer/9724",
+    "summary": "Google's ad program for websites asks for no minimum traffic. The checklist is short: an adult publisher, original content, and access to the site's HTML.",
+    "bestFor": "New and small sites",
+    "entry": "No traffic minimum. Publishers must be 18+, have original content and access to the site's HTML.",
+    "formats": "Display, in-feed, in-article, multiplex, site search.",
+    "payouts": "$100 threshold; payment issued between the 21st and 26th of the month.",
+    "threshold": "$100",
+    "schedule": "Between the 21st and 26th of the month",
+    "sources": [
+      {
+        "label": "Requirements",
+        "url": "https://support.google.com/adsense/answer/9724"
+      },
+      {
+        "label": "Ad units",
+        "url": "https://support.google.com/adsense/answer/9183549"
+      },
+      {
+        "label": "Payment thresholds",
+        "url": "https://support.google.com/adsense/answer/1709871"
+      },
+      {
+        "label": "Payment timing",
+        "url": "https://support.google.com/adsense/answer/1709858"
+      }
+    ],
+    "verdict": "The safest first network for a new site. Entry is open, the formats cover most layouts, and payments follow a fixed calendar, between the 21st and the 26th. The $100 threshold sits at the top of the range for website networks, so a very small site needs more earnings before its first payment."
+  },
+  {
+    "id": "adsterra",
+    "group": "sites",
+    "name": "Adsterra",
+    "partner": false,
+    "url": "https://adsterra.com/publishers/",
+    "summary": "Adsterra states no traffic minimum and leans on pop-under, social bar, native, direct link, and banner formats. Payments run twice a month, with thresholds from $5 depending on the method.",
+    "bestFor": "Small sites that want a fast, low-threshold first payout",
+    "entry": "No traffic minimum.",
+    "formats": "Popunder, Social Bar, Native Banners, Direct Link, Banners.",
+    "payouts": "Twice a month. Threshold $5 (Paxum, WM), $25 (PayPal, local banks in 40 countries), $1,000 (wire).",
+    "threshold": "From $5",
+    "schedule": "Twice a month (1st–2nd and 16th–17th)",
+    "sources": [
+      {
+        "label": "Publishers page",
+        "url": "https://adsterra.com/publishers/"
+      },
+      {
+        "label": "Minimum payout",
+        "url": "https://adsterra.com/blog/adsterra-minimum-payout-for-publishers/"
+      }
+    ],
+    "verdict": "The lowest threshold and the fastest payment cycle among the website networks. A $5 payout through Paxum or WM, or $25 through PayPal, puts a first payment within reach of a small site. Pop-under and social bar formats change how a page feels to visitors, so they need a check against the audience before launch."
+  },
+  {
+    "id": "infolinks",
+    "group": "sites",
+    "name": "Infolinks",
+    "partner": false,
+    "url": "https://www.infolinks.com/publishers/",
+    "summary": "Infolinks sells in-text and in-screen formats: InFold, InTop, InArticle, InFrame, InScreen, and InText. It states no numeric traffic minimum and reviews every site by hand.",
+    "bestFor": "Text-heavy sites that want in-text formats",
+    "entry": "No numeric traffic minimum stated. Every site is reviewed manually; online gambling and illegal content are not accepted.",
+    "formats": "InFold, InTop, InArticle, InFrame, InScreen, InText.",
+    "payouts": "$50 (PayPal, eCheck, ACH) or $100 (wire); monthly, within 45 days after month end.",
+    "threshold": "$50",
+    "schedule": "Monthly, within 45 days after month end",
+    "sources": [
+      {
+        "label": "Publishers page",
+        "url": "https://www.infolinks.com/publishers/"
+      },
+      {
+        "label": "Eligibility",
+        "url": "https://www.infolinks.com/support/getting-started/what-is-the-eligibility-criteria-for-my-site-to-qualify-with-infolinks/"
+      },
+      {
+        "label": "Payment threshold",
+        "url": "https://www.infolinks.com/support/payments/what-is-the-infolinks-payment-threshold/"
+      }
+    ],
+    "verdict": "A strong add-on for text-heavy sites, and a less obvious choice as the only network. The $50 threshold on PayPal, eCheck, and ACH is mid-range, and approval depends on a manual review. Online gambling and illegal content are not accepted."
+  },
+  {
+    "id": "monumetric",
+    "group": "sites",
+    "name": "Monumetric",
+    "partner": false,
+    "url": "https://www.monumetric.com/propel-program/",
+    "summary": "The Propel program is aimed at blogs that have outgrown entry-level networks but are not yet large. It takes 10K–80K pageviews a month on WordPress or Blogger, with at least half of traffic from the US, UK, Canada, or Australia, for a one-time $99 fee.",
+    "bestFor": "Blogs with 10K–80K pageviews a month",
+    "entry": "Propel: 10K–80K pageviews a month, WordPress or Blogger, 50%+ of traffic from the US, UK, Canada or Australia, $99 one-time fee.",
+    "formats": "Pre-bid video (VOLT), in-image and in-line ads, mobile dynamic ads, client-side header bidding wrapper.",
+    "payouts": "Net 60, $10 threshold, paid within the first 10 business days of the month.",
+    "threshold": "$10",
+    "schedule": "Net 60; first 10 business days of the month",
+    "sources": [
+      {
+        "label": "Propel program",
+        "url": "https://www.monumetric.com/propel-program/"
+      },
+      {
+        "label": "Products",
+        "url": "https://www.monumetric.com/website-monetization/"
+      },
+      {
+        "label": "Payment terms",
+        "url": "https://www.monumetric.com/payment-terms-and-how-you-are-paid/"
+      }
+    ],
+    "verdict": "The natural step between AdSense and Ezoic for blogs with an audience in the US, UK, Canada, or Australia. The $10 threshold is low, but Net 60 terms mean a long gap between earning and payment. A site outside WordPress and Blogger does not meet the entry rules."
+  },
+  {
+    "id": "ezoic",
+    "group": "sites",
+    "name": "Ezoic",
+    "partner": false,
+    "url": "https://support.ezoic.com/kb/article/getting-started-ezoics-requirements",
+    "summary": "Ezoic is built for audiences that are already large. Sites added after Feb 19, 2026 generally need 250,000+ monthly active users, and traffic can be verified by connecting Google Analytics. Smaller sites are pointed to the Incubator program.",
+    "bestFor": "Established sites with 250K+ monthly users",
+    "entry": "250,000+ monthly active users for sites added after Feb 19, 2026. Incubator program for smaller sites.",
+    "formats": "In-content, sticky video, anchor, rewarded, interstitial.",
+    "payouts": "$20 threshold; monthly, from the 27th. Net 30 by default; Net 60 adds a 1.5% bonus, Net 90 adds 2.25%.",
+    "threshold": "$20",
+    "schedule": "Monthly from the 27th; Net 30 default",
+    "sources": [
+      {
+        "label": "Requirements",
+        "url": "https://support.ezoic.com/kb/article/getting-started-ezoics-requirements"
+      },
+      {
+        "label": "Payments",
+        "url": "https://support.ezoic.com/kb/article/ezoic-payments"
+      },
+      {
+        "label": "Formats",
+        "url": "https://www.ezoic.com/"
+      }
+    ],
+    "verdict": "The choice for established sites that have outgrown entry-level networks. The $20 threshold and a monthly payment from the 27th are publisher-friendly, and among the ten networks compared here only Ezoic lists a bonus for a later payment date: Net 60 adds 1.5%, Net 90 adds 2.25%. A site below the traffic bar is better served by Monumetric or AdSense first."
+  },
+  {
+    "id": "yango",
+    "group": "apps",
+    "name": "Yango Ads Ad Network",
+    "short": "Yango Ads",
+    "partner": true,
+    "url": "https://yango-ads.com/adnetwork",
+    "cta": "Get started with Yango Ads",
+    "summary": "Yango Ads is an in-app ad network with one SDK for Android, iOS, Unity, React Native, and Flutter. According to its own page, the SDK connects 70+ DSPs and 600K+ unique advertisers, 40,000+ apps use it, and the USA is among its top markets.",
+    "bestFor": "App publishers with US traffic who want broad demand through one SDK",
+    "entry": "Android, iOS, Unity, React Native, Flutter.",
+    "formats": "Interstitial, rewarded, banner, native, app open, feed.",
+    "payouts": "Monthly automatic payouts in USD; $150 or €100 minimum threshold.",
+    "threshold": "$150 or €100",
+    "schedule": "Monthly, in USD",
+    "sources": [
+      {
+        "label": "Network page",
+        "url": "https://yango-ads.com/adnetwork"
+      }
+    ],
+    "verdict": "A strong pick for app publishers with US traffic who want broad demand through a single integration. It lists the longest set of formats of the five networks, six including app open and feed, and payouts arrive automatically every month in USD. The $150 or €100 threshold suits apps with steady monthly revenue."
+  },
+  {
+    "id": "yandex",
+    "group": "apps",
+    "name": "Yandex Advertising Network",
+    "short": "Yandex Advertising Network",
+    "partner": true,
+    "url": "https://ads.yandex.com/monetization",
+    "cta": "Get started with the Yandex Advertising Network",
+    "summary": "Yandex Advertising Network offers SDKs for Android, iOS, Unity, Flutter, and React Native. The app must be published in the App Store or Google Play, and the network's experts help publishers set up a GDPR consent form.",
+    "bestFor": "App publishers who want one SDK with GDPR support",
+    "entry": "Android, iOS, Unity, Flutter, React Native. Apps must be published in the App Store or Google Play (alternative stores are accepted if the app is also monetized in one of them).",
+    "formats": "Interstitial, rewarded, banner and others.",
+    "payouts": "$150 or €100 threshold for residents of other countries (3,000 rubles for Russian residents). Payout currency is rubles, US dollars or euros depending on the country of partnership; timelines depend on the country.",
+    "threshold": "$150 or €100",
+    "schedule": "Depends on the country of partnership",
+    "sources": [
+      {
+        "label": "Network page",
+        "url": "https://ads.yandex.com/monetization"
+      },
+      {
+        "label": "Help center FAQ",
+        "url": "https://ads.yandex.com/helpcenter/en/easy/faq"
+      },
+      {
+        "label": "Registration and payments",
+        "url": "https://ads.yandex.com/helpcenter/en/support/faq/payment"
+      }
+    ],
+    "verdict": "A solid fit for publishers who want one SDK across the major app platforms, with GDPR consent form support from the network's experts. The store requirement keeps the entry path clear: the app has to be live in the App Store or Google Play. Payout currency follows the country of partnership, so US-based publishers should confirm their terms during registration."
+  },
+  {
+    "id": "admob",
+    "group": "apps",
+    "name": "Google AdMob",
+    "partner": false,
+    "url": "https://admob.google.com/home/",
+    "summary": "Google AdMob is the mobile app network from Google, with SDKs for Android, iOS, Unity, C++, and Flutter, plus mediation and bidding.",
+    "bestFor": "Apps that want a proven baseline with mediation",
+    "entry": "Android, iOS, Unity, C++, Flutter; mediation and bidding available.",
+    "formats": "Native, rewarded, banner, video, interstitial.",
+    "payouts": "$100 threshold (€70, £60).",
+    "threshold": "$100 (€70, £60)",
+    "schedule": "Not stated on the pages checked",
+    "sources": [
+      {
+        "label": "AdMob",
+        "url": "https://admob.google.com/home/"
+      },
+      {
+        "label": "SDK docs",
+        "url": "https://developers.google.com/admob/"
+      },
+      {
+        "label": "Payment thresholds",
+        "url": "https://support.google.com/admob/answer/2772208"
+      }
+    ],
+    "verdict": "The baseline for in-app ads and the first network to benchmark the others against. SDK coverage is broad, mediation and bidding are built in, and the $100 threshold is the lowest stated among the networks that publish one, matched only by Appodeal's PayPal and ACH route. Payment timing is not stated on the pages checked, so it needs a look in the account before launch."
+  },
+  {
+    "id": "levelplay",
+    "group": "apps",
+    "name": "Unity LevelPlay",
+    "partner": false,
+    "url": "https://docs.unity.com/en-us/grow/levelplay",
+    "summary": "Unity LevelPlay is Unity's ad mediation platform, covering Unity, Android, iOS, Adobe AIR, Flutter, and React Native.",
+    "bestFor": "Unity games that need mediation",
+    "entry": "Unity, Android, iOS, Adobe AIR, Flutter, React Native.",
+    "formats": "Rewarded, interstitial, banner, native.",
+    "payouts": "Not published on the pages checked; confirm in the contract or with a manager.",
+    "threshold": "Not published",
+    "schedule": "Not published",
+    "sources": [
+      {
+        "label": "Docs",
+        "url": "https://docs.unity.com/en-us/grow/levelplay"
+      },
+      {
+        "label": "Product page",
+        "url": "https://unity.com/products/levelplay"
+      }
+    ],
+    "verdict": "The logical mediation layer for Unity games, with the widest engine coverage in the group. Payout terms are not published on the pages checked, so the threshold and schedule need to be confirmed with Unity before committing."
+  },
+  {
+    "id": "appodeal",
+    "group": "apps",
+    "name": "Appodeal",
+    "partner": false,
+    "url": "https://faq.appodeal.com/en/articles/94944-frameworks-supported",
+    "summary": "Appodeal is a mediation and monetization SDK for iOS, Android, Unity, React Native, and Flutter. Payments follow Net 45, and an immediate payout is available for a 4% fee.",
+    "bestFor": "Teams that want mediation with flexible payouts",
+    "entry": "iOS, Android, Unity, React Native, Flutter.",
+    "formats": "Rewarded video, interstitial (rich, static, video), banner, native.",
+    "payouts": "Net 45, paid monthly with no fee; immediate payout available for a 4% fee (2–5 business days). Minimum withdrawal $100 (PayPal, ACH), $1,000 (wire), $300 (Bitcoin, Ethereum).",
+    "threshold": "$100 (PayPal, ACH)",
+    "schedule": "Net 45, monthly",
+    "sources": [
+      {
+        "label": "Frameworks",
+        "url": "https://faq.appodeal.com/en/articles/94944-frameworks-supported"
+      },
+      {
+        "label": "Ad formats",
+        "url": "https://faq.appodeal.com/en/articles/96552-ad-formats-supported"
+      },
+      {
+        "label": "Net term",
+        "url": "https://faq.appodeal.com/en/articles/1838672-appodeal-s-payment-net-term"
+      },
+      {
+        "label": "Minimum payout",
+        "url": "https://docs.appodeal.com/faq-and-troubleshooting/faq/payout/minimum-payout-amount"
+      }
+    ],
+    "verdict": "The most flexible payout menu of the five. Monthly payment on Net 45 carries no fee, while an immediate payout costs 4% and lands in 2–5 business days. Withdrawal minimums start at $100 for PayPal and ACH, which matches AdMob's threshold."
+  }
+]
