@@ -99,6 +99,15 @@ function footer(slug) {
 <nav class="footer-nav" aria-label="Footer">${items.map(([t, s]) => `<a href="${link(slug, s)}">${t}</a>`).join('')}</nav></div>
 <div class="copy">© ${site.year} ${esc(site.name)}. All rights reserved.</div></div></footer>`;
 }
+const gtag = `<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T72XTSFCWH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-T72XTSFCWH');
+</script>`;
 function head({ slug, title, description, jsonld }) {
   const canon = site.url.replace(/\/$/, '') + '/' + (slug ? slug + '/' : '');
   const full = slug ? `${title} | ${site.name}` : title;
@@ -123,6 +132,7 @@ function head({ slug, title, description, jsonld }) {
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${asset(slug, 'style.css')}">
 <script type="application/ld+json">${JSON.stringify(jsonld)}</script>
+${gtag}
 </head>`;
 }
 function faqBlock(faq) {
